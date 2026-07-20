@@ -239,3 +239,74 @@ h3{
     color: #0D1B2A;
     border: 1px solid #0D1B2A;
 }
+.call-to-action{
+    background-color: #1D4ED8;
+    color: #fff;
+    padding: 80px 60px;
+    text-align: center;
+}
+.call-to-action{
+    margin-top: 80px;
+    max-width: 1320px;
+    align-items: center;
+    border-radius: 12px;
+}
+.call-to-action .box{
+    background-color: #1D4ED8;
+    padding: 40px;
+}
+.call-to-action .box h2{
+    
+    font-family: 'inter', sans-serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 64.4px;
+    color: #fff;
+    text-align:center;
+}
+.call-to-action .box p{
+    font-family: 'inter', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #fff;
+    margin-top: 20px;
+    max-width: 770px;
+    text-align: center;
+}
+.call-to-action .box button{
+    margin-top: 30px;
+    width: 180px;
+    height: 48px;
+    padding: 12px;
+    background-color: #93C5FD;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    font-family: 'inter', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    cursor: pointer;
+}
+footer{
+    margin-top: 80px;
+    background-color: #0D1B2A;
+    padding: 60px 56px 60px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer p{
+    font-family: 'inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    color: #fff;
+    text-align: center;
+}
+.footer-links ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
