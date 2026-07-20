@@ -274,12 +274,18 @@ h3{
     max-width: 770px;
     text-align: center;
 }
+.dual-btn{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    justify-content: center;
+    gap: 20px;
+}
 .call-to-action .box button{
     margin-top: 30px;
     width: 180px;
     height: 48px;
     padding: 12px;
-    background-color: #93C5FD;
+    background-color: #00008B;
     color: #fff;
     border: 1px solid #fff;
     border-radius: 10px;
